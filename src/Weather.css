@@ -56,4 +56,16 @@
     text-align: left;
   }
 
-  
+  #searchBtn{
+    color: white;
+    background-color: #8e837b;
+    border: none;
+  }
+  #searchBtn:hover{
+    color: #fff;
+    background-color: #6c645e;
+    border: none;
+  }
+  footer a{
+    color: #6c645e;
+  }
